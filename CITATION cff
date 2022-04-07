@@ -1,0 +1,13 @@
+@software{koamabayili_2022_6418718,
+  author       = {koama Bayili},
+  title        = {{ Laboratory and experimental 
+                   hut trial evaluation of VECTRON™ T500 for indoor
+                   residual spraying (IRS) against insecticide
+                   resistant malaria vectors in Burkina Faso}},
+  month        = apr,
+  year         = 2022,
+  publisher    = {Gates Open Research},
+  version      = {V0.1.0},
+  doi          = {10.5281/zenodo.6418718},
+  url          = {https://doi.org/10.5281/zenodo.6418718}
+}
