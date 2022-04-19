@@ -1,5 +1,5 @@
 # Laboratory and experimental hut trial evaluation of VECTRON™ T500 for indoor residual spraying (IRS) against insecticide resistant malaria vectors in Burkina Faso
-[![DOI](https://zenodo.org/badge/462297195.svg)](https://zenodo.org/badge/latestdoi/462297195)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6469836.svg)](https://doi.org/10.5281/zenodo.6469836)
 
 #### Background
 The recent rebound of malaria cases in some endemic areas could be due to the spread of insecticide resistance in malaria vectors. Furthermore, the insecticides recommended by WHO for vector control use are limited in number. Hence, it is essential to improve efficacy and find rotational partners for existing IRS products. VECTRON™ T500 is a novel insecticide formulation containing the active ingredient broflanilide developed by Mitsui Chemicals Agro, Inc., for IRS use to control pyrethroid resistant mosquitoes. It has a mode of action on mosquitoes completely different to other insecticides used in vector control. The aim of this study was to determine the optimum effective dose and efficacy of VECTRONTM T500, including its residual activity against susceptible and resistant strains of Anopheles in Burkina Faso. These studies were based on the WHO laboratory and experimental hut testing guidelines.
